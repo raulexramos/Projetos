@@ -1,2 +1,3 @@
-# Projetos
-Pasta destina a pequenos projetos
+# Projeto
+
+Projeto de uma calculadora IMC do curso de lógica de programação.
